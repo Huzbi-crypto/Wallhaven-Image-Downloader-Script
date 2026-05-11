@@ -5,4 +5,5 @@ A very basic userscript that downloads the image you are currently on. It doesn'
 ## Looks
 
 Here is how it looks:
+
 ![Download Button on Wallhaven](./assets/download-button-wallhaven.jpg)
